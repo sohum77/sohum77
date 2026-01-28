@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Sohum 👋
 
-<!--
-**sohum77/sohum77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Advanced Computer Science with Data Science  
+🏫 University of Strathclyde, Glasgow, UK  
 
-Here are some ideas to get you started:
+💡 Interests: Data Science, Machine Learning, NLP  
+🛠 Skills: Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, BERT  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects:
+- **Data Citation Intent Classification** (NLP, BERT, Kaggle)
+- **Cyberbullying Detection System** (NLP, Flask, PyQt5)
+
+🔗 Profiles:
+- GitHub: https://github.com/sohum77  
+- LinkedIn: https://linkedin.com/in/sohum-patil  
+- Kaggle: https://www.kaggle.com/sohumpatil  
+
+📫 Open to internships, part-time & graduate roles in the UK
