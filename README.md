@@ -7,7 +7,6 @@
 🛠 Skills: Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, BERT  
 
 📌 Featured Projects:
-- **Data Citation Intent Classification** (NLP, BERT, Kaggle)
 - **Cyberbullying Detection System** (NLP, Flask, PyQt5)
 
 🔗 Profiles:
